@@ -5,7 +5,7 @@ Interactive tool to help UIC researchers find the right ACER computational resou
 
 An interactive tool to help UIC researchers identify the right computational resource from ACER's portfolio.
 
-**Live app:** [computefinder.acer.uic.edu](https://acer-compute-finder.streamlit.app) *(update after deploy)*
+**Live app:** [[computefinder.acer.uic.edu](https://acer-compute-finder.streamlit.app) *(update after deploy)*](https://acer-compute-finder.streamlit.app/)
 
 ## What it covers
 
